@@ -12,11 +12,11 @@ const frameMetadata = getFrameMetadata({
 });
 
 export const metadata: Metadata = {
-  title: 'CTA Carousel Frame Template',   //Title shows if someone shares online
-  description: 'ggs Web3 No Re',  //Description if someone shares online
+  title: 'BIP 1M',   //Title shows if someone shares online
+  description: 'Burning BTC for the good of humanity',  //Description if someone shares online
   openGraph: {
-    title: 'CTA Carousel Frame Template', //Title as seen on FC, like you'd see on a Twitter link
-    description: 'ggs Web3 No Re',  //Description as seen on FC, same as above
+    title: 'BIP 1M', //Title as seen on FC, like you'd see on a Twitter link
+    description: 'BIP1m for our family',  //Description as seen on FC, same as above
     images: [`${process.env.NEXT_PUBLIC_GATEWAY_URL}`]
   },
   other: {
