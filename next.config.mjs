@@ -10,7 +10,7 @@ const nextConfig = {
             },
             {
                 source: '/rbtn',
-                destination: 'https://twitter.com/Web3NoRe',
+                destination: 'https://bip1559.org/',
                 permanent: false
             }
         ]
