@@ -5,7 +5,7 @@ const nextConfig = {
         return [
             {
                 source: '/lbtn',
-                destination: 'https://nore.beehiiv.com/',
+                destination: 'https://bip1559.org/',
                 permanent: false
             },
             {
