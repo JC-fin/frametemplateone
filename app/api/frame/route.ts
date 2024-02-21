@@ -10,8 +10,8 @@ const numFrames = 4  //how many images? (default: 4)
 const carBtnTxt = "Next"  //what should button say (default: Next)
 
 //For CTA Frame
-const ctaLBtnTxt = "LFG"  //what should left button say (default: LFG)
-const ctaRBtnTxt = "WAGMI" //what should right button say (default: WAGMI)
+const ctaLBtnTxt = "Sign Pledge"  //what should left button say (default: LFG)
+const ctaRBtnTxt = "Sign Pledge" //what should right button say (default: WAGMI)
 
 ///////////////////////////////////
 ///////////////////////////////////
